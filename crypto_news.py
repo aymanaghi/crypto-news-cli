@@ -10,7 +10,7 @@ from datetime import datetime
 console = Console()
 
 # 👇 paste your CryptoPanic API key here
-API_KEY = "6118c26539d7d2b1e82114107d7f98bf481fc82c"
+API_KEY = ":P"
 
 API_URL = "https://cryptopanic.com/api/v1/posts/"
 
