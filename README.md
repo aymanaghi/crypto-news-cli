@@ -1,24 +1,17 @@
-# 🪙 Crypto News CLI
+<div align="center">
 
-A lightweight **terminal app** that fetches the latest crypto & web3 news — built with 🐍 Python by **Stinger**.
+# 🪙 **Crypto News CLI**
+### *Built by 🐝 [Stinger](https://aymannaghi.com) • Python 🐍 | Web3 💠 | Terminal ⚡*
 
-Get live updates on Solana, BTC, ETH, DeFi, and more directly from your terminal.  
-No browser. No ads. Just alpha. 🚀
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-Tool-green?logo=gnometerminal&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-Ready-purple?logo=solana&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
----
+</div>
 
-## ⚡ Features
-- 📰 Fetches latest crypto news from [CryptoPanic API](https://cryptopanic.com/developer/)
-- 🪙 Filter by keyword (e.g. `solana`, `btc`, `defi`)
-- 🎨 Clean terminal interface using [`rich`](https://github.com/Textualize/rich)
-- ⚙️ Works with or without an API key
-- 🧠 Open-source and fully hackable
 
----
 
-## 📦 Installation
 
-Clone this repo:
-```bash
-git clone https://github.com/aymanaghi/crypto-news-cli.git
-cd crypto-news-cli
+
+
